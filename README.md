@@ -6,4 +6,4 @@ The toy dataset can be acquired by clonding this repo:
 https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
 
 and then within it, running:
-<bash ./datasets/download_cyclegan_dataset.sh vangogh2photo>
+`bash ./datasets/download_cyclegan_dataset.sh vangogh2photo`
