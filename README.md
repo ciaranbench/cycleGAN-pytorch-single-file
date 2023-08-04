@@ -1,5 +1,5 @@
 # cycleGAN-pytorch-single-file
-Single file implementation of a cycleGAN in PyTorch
+Single file implementation of a cycleGAN in PyTorch  (NO ID LOSS)
 
 Copied from https://www.kaggle.com/code/pipiking/cyclegan-pytorch/script
 
