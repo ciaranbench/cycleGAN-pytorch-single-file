@@ -1,7 +1,7 @@
 # cycleGAN-pytorch-single-file
 Single file implementation of a cycleGAN-like network in PyTorch  (NO ID LOSS)
 
-Add ID loss, and ensure each generator is updated with its own loss terms...
+Add ID loss
 
 Copied from https://www.kaggle.com/code/pipiking/cyclegan-pytorch/script
 
